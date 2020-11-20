@@ -1,0 +1,83 @@
+.navbar-custom{
+    background-color: black;
+    
+
+}
+.navbar .navbar-custom .navbar-brand img{
+    display: inline;
+}
+.navbar .navbar-brand{
+ color: whitesmoke;
+ font-family: 'Courgette', cursive;
+ font-size-adjust: inherit;
+ 
+ 
+
+}
+.topnav a:hover {
+    background-color: #ddd;
+    text-decoration: none;
+    color: black;
+  }
+  .topnav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }  
+  
+h1{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    background-color:black;
+    color:whitesmoke;
+}
+
+.body{
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.card-body {
+    color: whitesmoke;
+    font-family: "Lucida Console", Courier, monospace;}
+h5{
+    text-align: center;
+} 
+.col-md-4.card-block .card-body .card-title a {
+  color:rgba(160, 154, 154, 0.925);
+  text-decoration: none; 
+}   
+ .col-md-4.card-block .card-body .card-title a:hover {
+    color: whitesmoke;
+    text-decoration: none;
+}
+.body2{
+    background-image: url(body2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form p .h4 mb-4 label{
+    color: white;
+}
+
+.welbody{
+    background-image: url(wel.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+  
+footer{
+
+background-color: #101010;
+color:#9d9d9d;
+text-decoration: none;
+bottom: 0;
+width: 100%;
+}
